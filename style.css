@@ -1,0 +1,517 @@
+div.referencia{
+    width: 100%;
+    height:100%;
+    margin:auto;
+}
+
+
+div.superior{
+
+float: left;	
+    background-color: white;
+    width: 100%;
+    height:auto;
+}
+
+
+a{
+    text-align: center;
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    color: black;
+}
+a.logo{
+	text-align: left;
+}
+
+a.login{
+  color:#8B0000;
+  font-family:arial;
+  font-size: 13px;
+  font-weight:bold;
+}
+
+a.compras{
+
+  margin-top: 20px;
+}
+
+
+div.menu{
+
+float: left;	
+background-color:#ffffff;
+width: 100%;
+height:30px;
+text-align: center;
+font-size: 120%;
+font-family: verdana;
+color: #ffffff;
+position: relative;
+}
+
+.m1{
+float: left;	
+width: 10%;
+
+
+
+
+}
+
+.m1 a:hover{
+
+	color: #800000;
+}
+
+
+
+.m2 a:hover{
+
+	color: #800000;
+}
+
+
+.m2{
+float: left;	
+width: 10%;
+
+
+}
+
+.m3 a:hover{
+
+	color: #800000;
+}
+
+.m3{
+float: left;	
+width: 10%;
+
+}
+
+.m4{
+float: left;	
+width: 10%;
+
+
+}
+
+.m4 a:hover{
+
+	color: #800000;
+}
+
+.m5{
+float: left;	
+width: 10%;
+
+
+}
+
+.m5 a :hover{
+
+	color: #800000;
+}
+
+div.propaganda1{
+float: left;
+background-color:white;
+width: 100%;
+height:20%;
+
+
+}
+
+
+div.conteudo{
+
+float: left;	
+background-color: white;
+width: 100%;
+
+
+
+}
+
+div.conteudo2{
+float: left;
+background-color: white;
+width: 95%;
+height:auto;
+margin-left: 5%;
+margin-top:2%; 
+margin-bottom: 2%; 
+
+}
+
+div.conteudo3{
+float: left;
+background-color: white;
+width: 53%;
+height:auto;
+margin-left: 5%;
+margin-top:2%; 
+margin-bottom: 2%; 
+
+}
+div.conteudo4{
+float: left;
+background-color: white;
+width: 95%;
+height:auto;
+margin-left: 5%;
+margin-top:2%; 
+margin-bottom: 2%; 
+
+}
+
+
+div.img1{
+float: left;
+width: 33%;
+margin-right: 3%;
+border: 2px solid white;
+border: 2px solid white;
+
+}
+
+.img1:hover{
+
+border: 2px solid #000000; 	
+	height: 100%;
+
+}
+
+div.img2{
+float: left;
+width: 23%;
+height: 40%;
+margin-right: 3%;
+margin-bottom: 3%;
+border: 2px solid white;
+
+}
+
+.img2:hover{
+
+border: 2px solid #000000; 	
+height: 100%;
+
+}
+
+div.img3{
+float: left;
+width: 23%;
+margin-bottom: 3%;
+height: 40%;
+border: 2px solid white;
+}
+
+.img3:hover{
+
+border: 2px solid #000000; 	
+	height: 100%;
+
+}
+
+div.img4{
+float: left;
+width: 23%;
+height: 40%;
+margin-right:3%;
+border: 2px solid white;
+}
+
+.img4:hover{
+
+border: 2px solid #000000; 	
+	height: 100%;
+
+}
+
+div.img5{
+float: left;
+width: 23%;
+height: 40%;
+border: 2px solid white;
+
+}
+
+.img5:hover{
+
+border: 2px solid #000000; 	
+	height: 100%;
+
+}
+
+div.img6{
+float: left;
+width: 40%;
+height: 40%;
+margin-top: 3%;
+margin-right:3%;
+border: 2px solid white;
+}
+
+.img6:hover{
+
+border: 2px solid #000000; 	
+	height: 100%;
+
+}
+
+div.img7{
+float: left;
+width: 40%;
+height: 40%;
+margin-top: 3%;
+margin-right:3%;
+border: 2px solid white;
+}
+
+.img7:hover{
+
+border: 2px solid #000000; 	
+	height: 100%;
+
+}
+
+div.img8{
+float: left;
+width: 40%;
+height: 40%;
+margin-top: 3%;
+margin-right:3%;
+border: 2px solid white;
+}
+
+.img8:hover{
+
+border: 2px solid #000000; 	
+	height: 100%;
+
+}
+
+div.img9{
+float: left;
+width: 40%;
+height: 40%;
+margin-top: 3%;
+margin-right:3%;
+border: 2px solid white;
+}
+
+.img9:hover{
+
+border: 2px solid #000000; 	
+	height: 100%;
+
+}
+
+div.img10{
+float: left;
+width: 30%;
+height: 100%;
+margin-top: 3%;
+border: 2px solid white;
+}
+
+.img10:hover{
+
+border: 2px solid #000000; 	
+	height: 100%;
+
+}
+
+div.img11{
+float: left;
+width: 33%;
+height: 100%;
+margin-right: 3%;
+border: 2px solid white;
+
+}
+
+.img11:hover{
+
+border: 2px solid #000000;  
+  height: 95%;
+
+}
+
+div.img12{
+float: left;
+width: 23%;
+height: 40%;
+margin-right: 3%;
+margin-bottom: 3%;
+border: 2px solid white;
+}
+
+.img12:hover{
+
+border: 2px solid #000000;  
+height: 100%;
+
+}
+
+div.img13{
+float: left;
+width: 23%;
+height: 40%;
+margin-bottom: 3%;
+border: 2px solid white;
+}
+
+.img13:hover{
+
+border: 2px solid #000000;  
+  height: 100%;
+
+}
+
+div.img14{
+float: left;
+width: 23%;
+height: 40%;
+margin-right:3%;
+border: 2px solid white;
+}
+
+.img14:hover{
+
+border: 2px solid #000000;  
+  height: 100%;
+
+}
+
+div.img15{
+float: left;
+width: 23%;
+height: 40%;
+border: 2px solid white;
+
+}
+
+.img15:hover{
+
+border: 2px solid #000000;  
+  height: 100%;
+
+}
+
+div.rodape{
+float: left;
+width: 50%;
+margin-left: 25%;
+}
+
+div.logo{
+float: left;
+width:20%;
+height:100%;
+
+}
+
+.divBusca{
+  float: left;	
+  background-color:#ffffff;
+  border:solid 2px #000000;
+  border-radius:10px;
+  width:45%;
+  margin-top: 20px;
+   height:28px;
+}
+
+.txtBusca{
+  float:left;
+  background-color:transparent;
+  font-size:18px;
+  border:none;
+  width:85%;
+   height:28px;
+}
+
+.btnBusca{
+  border:none;
+  float:left;
+  height:28px;
+  border-radius:0 7px 7px 0;
+  width:15%;
+  font-weight:bold;
+  background:#8B0000;
+  color: #ffffff;
+}
+
+div.lista1{
+float: left;
+width: 45%;
+height: 5px;
+background:#b00000;
+margin-top: 10px;
+
+
+}
+
+div.nome{
+float: left;
+width: 10%;
+height: 10%;
+text-align: center;
+font-family: Arial;
+font-size: 120%;
+color: #b00000;
+position:relative;
+
+}
+
+div.login{
+ float: left;
+ margin-top: 25px;
+ margin-left: 100px;  
+ font-family: Arial;
+ color: #8B0000;
+
+}
+
+.fundo{
+width:100%; 
+height: 400px;
+overflow: hidden;
+position: relative; 
+margin-bottom: 3%;
+margin-top: 1%;
+}
+
+.foto{
+position: absolute;  
+opacity:0;
+animation-name: animacao;
+animation-duration: 12s;
+animation-iteration-count: infinite;
+
+}
+
+@keyframes animacao{
+
+30%{
+opacity: 1;
+transform: scale(1.0,1.0);
+
+}
+
+50%{
+opacity:0;
+}
+
+}
+.foto:nth-child(1){
+
+}
+.foto:nth-child(2){
+animation-delay:7s;
+}
+
